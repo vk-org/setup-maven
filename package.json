@@ -29,7 +29,7 @@
     "uglify-js": ">=2.6.0"
   },
   "devDependencies": {
-    "@types/node": "^15.12.2",
+    "@types/node": "^18.7.14",
     "@types/semver": "^7.3.6",
     "husky": "6.0.0",
     "prettier": "^2.3.1",
